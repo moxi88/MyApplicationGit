@@ -16,8 +16,7 @@
         android:id="@+id/hola"
         android:background="@color/colorAccent"
         android:text="Hola Mundo!"
-        android:textSize="16dp"/>
-        android:text="Hola Mundo!"
+        android:textSize="16dp"
         android:gravity="top"
         />
 

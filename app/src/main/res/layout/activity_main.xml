@@ -15,5 +15,5 @@
         android:layout_height="wrap_content"
         android:id="@+id/hola"
         android:background="@color/colorAccent"
-        android:text="Hello World!" />
+        android:text="Hola Mundo!" />
 </RelativeLayout>
